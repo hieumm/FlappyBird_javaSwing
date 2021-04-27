@@ -8,10 +8,7 @@ package frog;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-/**
- *
- * @author Hoan toan hanh phuc
- */
+
 public class Key implements KeyListener{
     //nhận sự kiện ấn vào nút Up thì cóc sẽ nhảy
     private boolean press = false;
